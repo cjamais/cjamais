@@ -2,11 +2,6 @@
 
 Bem-vindo à **C Jamais**, a organização dedicada ao desenvolvimento do jogo **Memento** utilizando a linguagem de programação **C** e a biblioteca **Allegro**.
 
-## Projetos Principais
-
-### [Memento]([https://github.com/seu-repositorio/memento](https://github.com/cjamais/genius])
-
-
 ## Membros da Organização
 
 - Gabriel Albino [![GitHub](https://img.shields.io/badge/GitHub-Gabriel_Albino-blue?logo=github)](https://github.com/gabrielalb5)
