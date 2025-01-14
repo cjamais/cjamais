@@ -3,11 +3,8 @@
 Bem-vindo à **C Jamais**, a organização dedicada ao desenvolvimento do jogo **Memento** utilizando a linguagem de programação **C** e a biblioteca **Allegro**.
 
 ## Membros da Organização
-
- ![Gabriel Albino](https://github.com/gabrielalb5.png?size=50) [Gabriel Albino](https://github.com/gabrielalb5)
- ![Gabrielle Ulisses](https://github.com/gabi-ulisses.png?size=50) [Gabrielle Ulisses](https://github.com/gabi-ulisses)
- ![Otavio Baroni](https://github.com/otaviobaroni.png?size=50) [Otavio Baroni](https://github.com/otaviobaroni)
- ![Rafael Matias](https://github.com/RafaelMatiass.png?size=50) [Rafael Matias](https://github.com/RafaelMatiass)
+ [![Gabriel Albino](https://github.com/gabrielalb5.png?size=50)](https://github.com/gabrielalb5) [![Gabrielle Ulisses](https://github.com/gabi-ulisses.png?size=50)](https://github.com/gabi-ulisses) 
+[![Otavio Baroni](https://github.com/otaviobaroni.png?size=50)](https://github.com/otaviobaroni) [![Rafael Matias](https://github.com/RafaelMatiass.png?size=50)](https://github.com/RafaelMatiass) 
 
 ## Contribuição
 
