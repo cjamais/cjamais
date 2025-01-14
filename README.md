@@ -4,10 +4,10 @@ Bem-vindo à **C Jamais**, a organização dedicada ao desenvolvimento do jogo *
 
 ## Membros da Organização
 
-- Gabriel Albino [![GitHub](https://img.shields.io/badge/GitHub-Gabriel_Albino-blue?logo=github)](https://github.com/gabrielalb5)
-- Gabrielle Ulisses [![GitHub](https://img.shields.io/badge/GitHub-Gabrielle_Ulisses-blue?logo=github)](https://github.com/gabi-ulisses)
-- Otavio Baroni [![GitHub](https://img.shields.io/badge/GitHub-Otavio_Baroni-blue?logo=github)](https://github.com/otaviobaroni)
-- Rafael Matias [![GitHub](https://img.shields.io/badge/GitHub-Rafael_Matias-blue?logo=github)](https://github.com/RafaelMatiass)
+ ![Gabriel Albino](https://github.com/gabrielalb5.png?size=50) [Gabriel Albino](https://github.com/gabrielalb5)
+ ![Gabrielle Ulisses](https://github.com/gabi-ulisses.png?size=50) [Gabrielle Ulisses](https://github.com/gabi-ulisses)
+ ![Otavio Baroni](https://github.com/otaviobaroni.png?size=50) [Otavio Baroni](https://github.com/otaviobaroni)
+ ![Rafael Matias](https://github.com/RafaelMatiass.png?size=50) [Rafael Matias](https://github.com/RafaelMatiass)
 
 ## Contribuição
 
